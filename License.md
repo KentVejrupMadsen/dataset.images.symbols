@@ -1,7 +1,4 @@
 # Creative Commons Attribution Share Alike 4.0 International
-Copyright 2023 Kent vejrup Madsen
-
-
 ## License
 Attribution-ShareAlike 4.0 International
 
