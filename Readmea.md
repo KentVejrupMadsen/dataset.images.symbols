@@ -3,7 +3,9 @@
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 
-## Badges
+## Information
+dataset can be found at: [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/letter-images-dataset)
+
 licensed under: [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 
