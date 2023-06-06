@@ -1,4 +1,4 @@
-# Image dataset for symbols
+# Image Dataset of Symbols
 ## Status
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
