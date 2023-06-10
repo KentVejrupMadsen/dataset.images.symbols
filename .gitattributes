@@ -9,7 +9,7 @@
 
 *.toml text eol=lf
 *.json text eol=lf
-
+*.yml text eol=lf
 
 # Image files
 *.jpg binary diff=exif
