@@ -18,6 +18,7 @@
 *.bmp binary diff=exif
 
 # Git attributes
+.toml text eol=lf export-ignore
 .gitignore text eol=lf export-ignore
 .gitattributes text eol=lf export-ignore
 .gitmodules export-ignore
