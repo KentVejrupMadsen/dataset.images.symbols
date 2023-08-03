@@ -41,9 +41,7 @@
 </div>
 
 
-## Status
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
+## Workflow status
 
 ## Information
 * Latest dataset can be found at: 
@@ -72,10 +70,17 @@
     <i>Image dataset of Symbols</i> [Data set]. 
     Kaggle. https://doi.org/10.34740/KAGGLE/DS/2947610
 
+<div align="right">
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+</div>
+
 ## Appendices
 ### Footnotes
 * 2023 Kent vejrup Madsen
 * Latest update: 03-08-2023
+
 
 <!-- Footnotes -->
 [^1]: Attribution-ShareAlike 4.0 International
