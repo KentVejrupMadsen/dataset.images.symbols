@@ -4,8 +4,11 @@
 
 
 ## Information
-* Latest dataset can be found at: [Kaggle][kaggle_url_repository]
-* Licensed under: [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+* Latest dataset can be found at: 
+[Kaggle][kaggle_url_repository]
+
+* Licensed under: 
+[CC 4.0 BY-SA][cc-by-sa][^1].
 
 
 ## Cite the DataSet
@@ -23,11 +26,15 @@
 
 ### APA
 
-    Kent vejrup Madsen. (2023). <i>Image dataset of Symbols</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2947610
+    Kent vejrup Madsen. (2023). 
+    <i>Image dataset of Symbols</i> [Data set]. 
+    Kaggle. https://doi.org/10.34740/KAGGLE/DS/2947610
 
 
 ## Footnotes
 * 2023 Kent vejrup Madsen
+
+[^1]: Attribution-ShareAlike 4.0 International
 
 <!-- CC-BY-SA -->
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
