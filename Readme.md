@@ -30,10 +30,12 @@
     <i>Image dataset of Symbols</i> [Data set]. 
     Kaggle. https://doi.org/10.34740/KAGGLE/DS/2947610
 
+## Misc
+* 2023 Kent vejrup Madsen
+* Latest update: 03-08-2023
 
 ## Footnotes
-* 2023 Kent vejrup Madsen
-
+<!-- Footnotes -->
 [^1]: Attribution-ShareAlike 4.0 International
 
 <!-- CC-BY-SA -->
