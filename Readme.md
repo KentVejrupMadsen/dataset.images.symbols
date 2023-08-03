@@ -1,43 +1,42 @@
 # Image Dataset of Symbols
-
 <center>
 
-![I](/resources/I.gif)
-![M](/resources/M.gif)
-![A](/resources/A.gif)
-![G](/resources/G.gif)
-![E](/resources/E.gif)
+![I][logo_i]
+![M][logo_m]
+![A][logo_a]
+![G][logo_g]
+![E][logo_e]
 
 </center>
 
 <center>
 
-![D](/resources/D.gif)
-![A](/resources/A.gif)
-![T](/resources/T.gif)
-![A](/resources/A.gif)
-![S](/resources/S.gif)
-![E](/resources/E.gif)
-![T](/resources/T.gif)
+![D][logo_d]
+![A][logo_a]
+![T][logo_t]
+![A][logo_a]
+![S][logo_s]
+![E][logo_e]
+![T][logo_t]
 
 </center>
 
 <center>
 
-![O](/resources/O.gif)
-![F](/resources/F.gif)
+![O][logo_o]
+![F][logo_f]
 
 </center>
 
 <center>
 
-![S](/resources/S.gif)
-![Y](/resources/Y.gif)
-![M](/resources/M.gif)
-![B](/resources/B.gif)
-![O](/resources/O.gif)
-![L](/resources/L.gif)
-![S](/resources/S.gif)
+![S][logo_s]
+![Y][logo_y]
+![M][logo_m]
+![B][logo_b]
+![O][logo_o]
+![L][logo_l]
+![S][logo_s]
 
 </center>
 
@@ -88,3 +87,20 @@
 
 <!-- kaggle url -->
 [kaggle_url_repository]: https://www.kaggle.com/datasets/kentvejrupmadsen/letter-images-dataset
+
+
+<!-- Images -->
+[logo_i]: /resources/I.gif
+[logo_m]: /resources/M.gif
+[logo_a]: /resources/A.gif
+[logo_g]: /resources/G.gif
+[logo_e]: /resources/E.gif
+[logo_o]: /resources/O.gif
+[logo_f]: /resources/F.gif
+[logo_s]: /resources/S.gif
+[logo_y]: /resources/Y.gif
+[logo_m]: /resources/M.gif
+[logo_b]: /resources/B.gif
+[logo_l]: /resources/L.gif
+[logo_d]: /resources/D.gif
+[logo_t]: /resources/T.gif
