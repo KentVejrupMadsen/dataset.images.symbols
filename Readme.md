@@ -1,4 +1,48 @@
 # Image Dataset of Symbols
+
+<center>
+
+![I](/resources/I.gif)
+![M](/resources/M.gif)
+![A](/resources/A.gif)
+![G](/resources/G.gif)
+![E](/resources/E.gif)
+
+</center>
+
+<center>
+
+![D](/resources/D.gif)
+![A](/resources/A.gif)
+![T](/resources/T.gif)
+![A](/resources/A.gif)
+![S](/resources/S.gif)
+![E](/resources/E.gif)
+![T](/resources/T.gif)
+
+</center>
+
+<center>
+
+![O](/resources/O.gif)
+![F](/resources/F.gif)
+
+</center>
+
+<center>
+
+![S](/resources/S.gif)
+![Y](/resources/Y.gif)
+![M](/resources/M.gif)
+![B](/resources/B.gif)
+![O](/resources/O.gif)
+![L](/resources/L.gif)
+![S](/resources/S.gif)
+
+
+</center>
+
+
 ## Status
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
