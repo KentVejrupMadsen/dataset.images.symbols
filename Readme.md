@@ -1,5 +1,5 @@
 # Image Dataset of Symbols
-<center>
+<div align="center">
 
 ![I][logo_i]
 ![M][logo_m]
@@ -7,9 +7,9 @@
 ![G][logo_g]
 ![E][logo_e]
 
-</center>
+</div>
 
-<center>
+<div align="center">
 
 ![D][logo_d]
 ![A][logo_a]
@@ -19,16 +19,16 @@
 ![E][logo_e]
 ![T][logo_t]
 
-</center>
+</div>
 
-<center>
+<div align="center">
 
 ![O][logo_o]
 ![F][logo_f]
 
-</center>
+</div>
 
-<center>
+<div align="center">
 
 ![S][logo_s]
 ![Y][logo_y]
@@ -38,7 +38,7 @@
 ![L][logo_l]
 ![S][logo_s]
 
-</center>
+</div>
 
 
 ## Status
@@ -87,7 +87,6 @@
 
 <!-- kaggle url -->
 [kaggle_url_repository]: https://www.kaggle.com/datasets/kentvejrupmadsen/letter-images-dataset
-
 
 <!-- Images -->
 [logo_i]: /resources/I.gif
