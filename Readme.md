@@ -39,7 +39,6 @@
 ![L](/resources/L.gif)
 ![S](/resources/S.gif)
 
-
 </center>
 
 
