@@ -1,14 +1,4 @@
 # Image Dataset of Symbols
-## Workflow status
-
-## Information
-* Dataset can be found at: 
-
-| Sources                         |                                 |                                 |  
-| :------------------------------ | :-----------------------------: | ------------------------------: |  
-| [Kaggle][kaggle_url_repository] | [Github][github_url_repository] | [Python][python_url_repository] | 
-
-
 <cover>
 <div align="center">
 
@@ -52,30 +42,20 @@
 </div>
 </cover>
 
-## Cite the DataSet
-### BibTeX
-<div align="left">
+## Workflow status
 
-    @misc{
-        kent vejrup madsen_2023,
-        title={Image dataset of Symbols},
-        url={https://www.kaggle.com/ds/2947610},
-        DOI={10.34740/KAGGLE/DS/2947610},
-        publisher={Kaggle},
-        author={Kent vejrup Madsen},
-        year={2023}
-    }
+## Information
+* Dataset can be found at: 
 
-<div>
+| Sources                         |                                 |                                 |  
+| :------------------------------ | :-----------------------------: | ------------------------------: |  
+| [Kaggle][kaggle_url_repository] | [Github][github_url_repository] | [Python][python_url_repository] | 
 
-### APA
-<div align="center">
 
-    Kent vejrup Madsen. (2023). 
-    <i>Image dataset of Symbols</i> [Data set]. 
-    Kaggle. https://doi.org/10.34740/KAGGLE/DS/2947610
+## Content
+* [License](License.md)
+* [Cite the dataset](Cite.md)
 
-</div>
 
 <div align="right">
 
