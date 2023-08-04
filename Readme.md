@@ -1,4 +1,15 @@
 # Image Dataset of Symbols
+## Workflow status
+
+## Information
+* Dataset can be found at: 
+
+| Sources                         |                                 |                                 |  
+| :------------------------------ | :-----------------------------: | ------------------------------: |  
+| [Kaggle][kaggle_url_repository] | [Github][github_url_repository] | [Python][python_url_repository] | 
+
+
+<cover>
 <div align="center">
 
 ![I][logo_i]
@@ -39,17 +50,7 @@
 ![S][logo_s]
 
 </div>
-
-
-## Workflow status
-
-## Information
-* Latest dataset can be found at: 
-[Kaggle][kaggle_url_repository]
-
-* Licensed under: 
-[CC 4.0 BY-SA][cc-by-sa][^1].
-
+</cover>
 
 ## Cite the DataSet
 ### BibTeX
@@ -78,12 +79,14 @@
 
 <div align="right">
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[^1][![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 </div>
 
-## Appendices
-### Footnotes
+<h2 align="center">
+    Footnotes
+</h2>
+
 * 2023 Kent vejrup Madsen
 * Latest update: 03-08-2023
 
@@ -96,21 +99,24 @@
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-<!-- kaggle url -->
+<!-- Links -->
 [kaggle_url_repository]: https://www.kaggle.com/datasets/kentvejrupmadsen/letter-images-dataset
 
+[github_url_repository]: https://github.com/designermadsen-public-dataset/ids/releases
+
+[python_url_repository]: https://pypi.org/project/set-ids/
+
 <!-- Images -->
-[logo_i]: /resources/I.gif
-[logo_m]: /resources/M.gif
-[logo_a]: /resources/A.gif
-[logo_g]: /resources/G.gif
-[logo_e]: /resources/E.gif
-[logo_o]: /resources/O.gif
-[logo_f]: /resources/F.gif
-[logo_s]: /resources/S.gif
-[logo_y]: /resources/Y.gif
-[logo_m]: /resources/M.gif
-[logo_b]: /resources/B.gif
-[logo_l]: /resources/L.gif
-[logo_d]: /resources/D.gif
-[logo_t]: /resources/T.gif
+[logo_a]: /resources/animations/A.gif
+[logo_b]: /resources/animations/B.gif
+[logo_d]: /resources/animations/D.gif
+[logo_e]: /resources/animations/E.gif
+[logo_f]: /resources/animations/F.gif
+[logo_g]: /resources/animations/G.gif
+[logo_l]: /resources/animations/L.gif
+[logo_o]: /resources/animations/O.gif
+[logo_m]: /resources/animations/M.gif
+[logo_s]: /resources/animations/S.gif
+[logo_y]: /resources/animations/Y.gif
+[logo_i]: /resources/animations/I.gif
+[logo_t]: /resources/animations/T.gif
