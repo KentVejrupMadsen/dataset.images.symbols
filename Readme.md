@@ -47,16 +47,16 @@
 ## Information
 * Dataset can be found at: 
 
-| Sources                         |                                 |                                 |  
-| :------------------------------ | :-----------------------------: | ------------------------------: |  
-| [Kaggle][kaggle_url_repository] | [Github][github_url_repository] | [Python][python_url_repository] | 
+- [Kaggle][kaggle_url_repository] 
+- [Github][github_url_repository]
+- [Python][python_url_repository]
 
 * Licensed under CC BY-SA 4.0[^1]
 
 ## Content
 * [License](License.md)
 * [Cite the dataset](Cite.md)
-
+* [Installation of dataset](Installation.md)
 
 <div align="right">
 
