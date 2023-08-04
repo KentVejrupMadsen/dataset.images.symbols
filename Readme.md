@@ -51,6 +51,7 @@
 | :------------------------------ | :-----------------------------: | ------------------------------: |  
 | [Kaggle][kaggle_url_repository] | [Github][github_url_repository] | [Python][python_url_repository] | 
 
+* Licensed under CC BY-SA 4.0[^1]
 
 ## Content
 * [License](License.md)
@@ -59,7 +60,7 @@
 
 <div align="right">
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa][^1]
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 </div>
 
